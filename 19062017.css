@@ -1,0 +1,28 @@
+img{
+	width: 400 px;
+	height: 400 px;
+
+	border-radius: 100%;
+}
+
+
+ul li{
+	list-style: : none;
+}
+
+a{
+	text-decoration: none;
+	color: pink;
+}
+
+#my-email{
+	font-weight: normal;
+}
+
+#my-phone{
+	font-weight: normal;
+}
+
+#on-the-web{
+	font-weight: normal;
+}
